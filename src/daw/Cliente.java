@@ -1,5 +1,10 @@
 package daw;
 
+/**
+ * Descripción de la clase cliente
+ * @author Noel Cegarra
+ * @version 1.1
+ */
 public class Cliente {
     @Override
     public String toString() {
